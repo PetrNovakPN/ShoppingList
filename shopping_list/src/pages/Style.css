@@ -1,0 +1,77 @@
+/* Style.css */
+.shopping-list {
+  font-family: "Arial", sans-serif;
+  margin: 20px;
+  text-align: center;
+}
+
+.list-header {
+  font-size: 24px;
+  margin: 10px;
+  color: #333;
+}
+
+.sub-header {
+  font-size: 18px;
+  margin: 10px 0;
+  color: #666;
+}
+
+.item {
+  font-size: 16px;
+  margin: 5px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.button {
+  font-size: 14px;
+  padding: 5px 10px;
+  margin-left: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.button:hover {
+  background-color: #0056b3;
+}
+
+.layout {
+  display: flex;
+  /* Add any other styles you want for the layout container */
+}
+
+.nav-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-li {
+  margin-right: 10px;
+  display: inline;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.login-container {
+  margin-left: 20px;
+  /* Add any other styles you want for the login container */
+}
+
+.shopping-list {
+  font-family: "Arial", sans-serif;
+  margin: 20px;
+  text-align: center;
+}
